@@ -17,7 +17,7 @@ Apache 2.4.25 x86 - PHP 7.1.3 x86
 
 MySQL 5.7.17 x86
 
-## Scrins
+## Screens
 
 Пример вывода данных из БД
 ![Image alt](https://github.com/luzanna/parser/blob/images/pic1.PNG)
