@@ -1,0 +1,52 @@
+html {
+    background: #f6faff;
+}
+
+h1{
+    margin-left: 43%;
+}
+
+span, a{
+    text-align: center;
+    color: cadetblue;
+    flex-direction: row;
+}
+
+span{
+    color: #182828;
+}
+
+span:first-child{
+    margin-left: 35%;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #3f696a;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    text-align: center;
+}
+.row1{
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+.row2{
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+.row3{
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+.row4{
+    grid-column-start: 4;
+    grid-column-end: 5;
+}
+.row5{
+    grid-column-start: 5;
+    grid-column-end: 6;
+}
